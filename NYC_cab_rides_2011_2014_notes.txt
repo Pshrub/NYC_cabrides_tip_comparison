@@ -1,0 +1,13 @@
+This is the URL used to get the lat/long bounding box for the study area.
+
+https://www.latlong.net/convert-address-to-lat-long.html
+
+Bounding box for lower Manhattan (Greenwich Village, East Village)
+
+upper left (Northwest) corner
+
+  (40.741610, -74.010472)
+
+lower right (Southeast) corner
+
+  (40.719170, -73.971076)
